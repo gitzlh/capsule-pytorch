@@ -11,11 +11,10 @@ The mistakes include:
 2. wrong margin loss function.
 3. wrong dimention to which the squash function is applied.
 
-Once these mistakes are corrected, their models cannot learn at all. Maybe there are some other mistakes. 
+Once these mistakes are corrected, their models cannot learn at all. I guess there are some other mistakes. 
 
-Besides, all these repos are based on pytorch 0.3 and you need to treak the code.
+Besides, most of the repos of pytorch capsule network are based on pytorch 0.3 and are a bit of outdated.
 
-PS: I did find a bug-free repos from [here](https://github.com/manuelsh/capsule-networks-pytorch).
 
 
 ## The best tutorials of capsule network (which, of course, is not the [original paper](https://arxiv.org/abs/1710.09829)） 
@@ -26,3 +25,10 @@ PS: I did find a bug-free repos from [here](https://github.com/manuelsh/capsule-
 ```
 python3 train.py
 ```
+
+## Thanks:
+
+1. The only bug-free pytorch implementation: [capsule-netwprks-pytorch](https://github.com/manuelsh/capsule-networks-pytorch).
+
+2. A well-structured implemention: [pytorch-capsule](https://github.com/timomernick/pytorch-capsule).
+
