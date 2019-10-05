@@ -13,7 +13,7 @@ The mistakes include:
 
 Once these mistakes are corrected, their models cannot learn at all. I guess there are some other mistakes. 
 
-Besides, most of the repos of pytorch capsule network are based on pytorch 0.3 and are a bit of outdated.
+Besides, most of the  pytorch-implemented capsule network are based on pytorch 0.3 and are a bit of outdated.
 
 
 
