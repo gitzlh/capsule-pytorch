@@ -25,7 +25,7 @@ python3 train.py
 
 ## Thanks:
 
-- The best tutorials of capsule network (which, of course, is not the [original paper](https://arxiv.org/abs/1710.09829):） 
+- The best tutorials of capsule network (which, of course, is not the [original paper](https://arxiv.org/abs/1710.09829)）: 
 [Understanding Hinton’s Capsule Networks](https://pechyonkin.me/capsules-1/)
 - The only bug-free pytorch implementation I found: [capsule-netwprks-pytorch](https://github.com/manuelsh/capsule-networks-pytorch).
 
